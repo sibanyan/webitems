@@ -137,3 +137,4 @@ dist
 
 # jekyll build
 _site/
+.jekyll-metadata

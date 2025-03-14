@@ -5,6 +5,7 @@ title: いろいろやってみる
 ---
 
 # サービス一覧
-{% for page in site.pages %}
-- [{{ page.title }}]({{ page.url }})
+
+{% for item in site.items %}
+- <a href="{{ item.url }}">{{ item.title }}</a>
 {% endfor %}

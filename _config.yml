@@ -3,3 +3,6 @@ title: "shibanyan test"
 theme: minima
 plugins:
   - jekyll-feed
+collections:
+  items:
+    output: true
