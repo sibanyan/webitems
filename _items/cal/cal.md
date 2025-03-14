@@ -4,7 +4,6 @@ title: 電卓
 stylesheet: style.css
 js: cal_js.js
 ---
-
 <div class="calculator">
     <div class="display" id="display">0</div>
     <div class="buttons">
