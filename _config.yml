@@ -1,6 +1,9 @@
 # _config.yml
 title: "shibanyan test"
 theme: minima
+baseurl: "/webitems"
+url: "https://shibanyan.github.io"
+# permalink: pretty
 plugins:
   - jekyll-feed
 collections:

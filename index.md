@@ -7,5 +7,5 @@ title: いろいろやってみる
 # サービス一覧
 
 {% for item in site.items %}
-- <a href="{{ item.url }}">{{ item.title }}</a>
+- <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
 {% endfor %}
