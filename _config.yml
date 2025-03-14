@@ -1,5 +1,5 @@
 # _config.yml
 title: "shibanyan test"
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
