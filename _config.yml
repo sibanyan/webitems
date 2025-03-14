@@ -1,3 +1,5 @@
 # _config.yml
-title: "サービス一覧"
-theme: jekyll-theme-cayman
+title: "shibanyan test"
+theme: jekyll-theme-clean-blog
+plugins:
+  - jekyll-feed

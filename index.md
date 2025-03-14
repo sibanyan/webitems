@@ -1,7 +1,7 @@
-# index.md
 ---
-layout: default
-title: サービス一覧
+# index.md
+layout: home
+title: いろいろやってみる
 ---
 
 # サービス一覧
