@@ -4,7 +4,10 @@ title: マークダウンエディター
 stylesheet: style.css
 js: markdowneditor_js.js
 comment: 
-want: 
+want: リッチテキスト対応（execCommand の利用）
+    自動保存のON/OFF切り替え
+    カスタムスタイルの適用（テーマ機能）
+    記述の仕方メモ
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.0/marked.min.js"></script>
 <div class="editor-container">
