@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+.upload-area {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.upload-area p {
+    margin: 10px 0;
+    color: #666;
+}
+.controls {
+    margin-bottom: 20px;
+}
+input {
+    width: 80px;
+    margin-left: 5px;
+}
+canvas {
+    max-width: 100%;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+}
+button {
+    margin-top: 10px;
+    padding: 10px;
+}
