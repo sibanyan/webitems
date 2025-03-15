@@ -6,7 +6,7 @@ js: blog_js.js
 comment: 
 want: 
 ---
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>z
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <header>
     <h1>Markdownブログ</h1>
     <button id="toggle-dark-mode">🌙 ダークモード</button>
