@@ -1,6 +1,6 @@
 ---
 layout: item
-title: ファイル暗号化ツール(keystore)
+title: ファイル暗号化ツール keystore
 stylesheet: style.css
 js: encrypt_keystore_js.js
 comment: 
