@@ -3,6 +3,9 @@ layout: item
 title: QRコード生成
 stylesheet: style.css
 js: qrgene_js.js
+comment: 
+want: バーコード生成機能（JsBarcode.js などを使用
+    ロゴ付きQRコード（canvas にカスタム画像を追加）
 ---
 <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <div class="container">
