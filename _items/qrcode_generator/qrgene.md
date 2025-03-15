@@ -4,6 +4,7 @@ title: QRコード生成
 stylesheet: style.css
 js: qrgene_js.js
 ---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 <div class="container">
     <h1>QRコードジェネレーター</h1>
     <input type="text" id="text-input" placeholder="テキストを入力">
